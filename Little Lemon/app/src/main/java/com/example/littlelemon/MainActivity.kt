@@ -6,7 +6,6 @@ import androidx.activity.compose.setContent
 import androidx.compose.foundation.layout.Column
 import androidx.compose.runtime.Composable
 
-
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -16,7 +15,6 @@ class MainActivity : ComponentActivity() {
     }
 }
 
-
 @Composable
 fun HomeScreen(){
     Column {
@@ -24,4 +22,3 @@ fun HomeScreen(){
         LowerPanel()
     }
 }
-
