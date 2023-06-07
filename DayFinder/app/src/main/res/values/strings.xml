@@ -4,7 +4,7 @@
     <string name="date">Please enter the date: </string>
     <string name="submit">Submit</string>
     <string name="copyright"> ©AKASHDIP NEOGI </string>
-    <string name="instructions">Year Limit\n (1800 - 3000)\nInput Format (DD/MM/YYYY) / DDMMYYYY</string>
+    <string name="instructions">Input Format\n (DD/MM/YYYY) OR (DDMMYYYY) \n\n Year Limit\n (1800 - 3000)</string>
     <string name="rate">WANT TO RATE THIS APP?</string>
     <string name="tryagain">WANT TO TRY THIS APP AGAIN?</string>
     <string name="name">Akashdip Neogi</string>
