@@ -8,10 +8,12 @@ import androidx.compose.ui.res.painterResource
 
 @Composable
 fun TopAppBar(){
+    /*
     Row(){
         IconButton(onClick = { /*TODO*/ }) {
+
             Image(
-                painter = painterResource(id = R.drawable.ic_hamburger_menu),
+                //painter = painterResource(id = R.drawable.ic_hamburger_menu),
                 contentDescription = "Menu Icon"
             )
         }
@@ -21,4 +23,6 @@ fun TopAppBar(){
         )
 
     }
+
+     */
 }

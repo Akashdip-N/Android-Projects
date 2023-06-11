@@ -10,68 +10,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e8af091a-088a-4e97-9a44-2a3b2d2a9e31" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gradle/7.5/checksums/checksums.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/7.5/dependencies-accessors/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/7.5/fileChanges/last-build.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/7.5/fileHashes/fileHashes.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/7.5/fileHashes/fileHashes.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/7.5/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/vcs-1/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/proguard-rules.pro" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/androidTest/java/com/littlelemon/littlelemonmenu/ExampleInstrumentedTest.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/littlelemon/littlelemonmenu/MainActivity.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/littlelemon/littlelemonmenu/ui/theme/Color.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/themes.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/xml/backup_rules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/xml/data_extraction_rules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/test/java/com/littlelemon/littlelemonmenu/ExampleUnitTest.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/local.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Little Lemon/app/src/main/java/com/example/littlelemon2/LowerPanel.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Little Lemon/app/src/main/java/com/example/littlelemon2/State.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Little Lemon/app/src/main/java/com/example/littlelemon2/TopAppBar.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Little Lemon/app/src/main/java/com/example/littlelemon2/UpperPanel.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Little Lemon/app/src/main/res/drawable/greeksalad.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Little Lemon/app/src/main/res/drawable/littlelemonlogo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Little Lemon/app/src/main/res/drawable/remove.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Little Lemon/app/src/main/res/drawable/upperpanelimage.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Little Lemon Login/app/src/main/java/com/example/littlelemonlogin/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../Little Lemon Login/app/src/main/java/com/example/littlelemonlogin/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BasicNavigation/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BasicNavigation/app/src/main/java/com/example/basicnavigation/DashboardScreen.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BasicNavigation/app/src/main/java/com/example/basicnavigation/Destinations.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BasicNavigation/app/src/main/java/com/example/basicnavigation/DetailScreen.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicNavigation/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicNavigation/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BasicNavigation/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicNavigation/.idea/kotlinc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BasicNavigation/.idea/kotlinc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicNavigation/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BasicNavigation/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicNavigation/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../BasicNavigation/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicNavigation/app/src/main/java/com/example/basicnavigation/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../BasicNavigation/app/src/main/java/com/example/basicnavigation/MainActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicNavigation/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../BasicNavigation/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicNavigation/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../BasicNavigation/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Little Lemon/.idea/kotlinc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Little Lemon/.idea/kotlinc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Little Lemon/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../Little Lemon/app/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Little Lemon/app/src/main/java/com/example/littlelemon2/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../Little Lemon/app/src/main/java/com/example/littlelemon2/MainActivity.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Little Lemon/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Little Lemon/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Little Lemon/app/src/main/java/com/example/littlelemon2/TopAppBar.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../Little Lemon/app/src/main/java/com/example/littlelemon2/TopAppBar.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Little Lemon/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../Little Lemon/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LittleLemon2/.idea/workspace.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,16 +51,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/unix/Android Applications/Android-Projects/Completed-Project&quot;,
-    &quot;memory.settings.postsync.last.time.stamp&quot;: &quot;1686126064318&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "cidr.known.project.marker": "true",
+    "last_opened_file_path": "/home/unix/Android Applications/DayFinder",
+    "memory.settings.postsync.last.time.stamp": "1686126064318"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App">
       <module name="LittleLemonMenu.app.main" />
