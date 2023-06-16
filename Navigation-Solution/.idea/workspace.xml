@@ -10,63 +10,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="72bae93a-aa3b-4d84-981f-b35f9e18875b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LittleLemon Navigation Reading initial/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LittleLemon Navigation Reading initial/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LittleLemon Navigation Reading initial/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LittleLemon Navigation Reading initial/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LittleLemon Navigation Reading initial/.idea/gradle.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LittleLemon Navigation Reading initial/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LittleLemon Navigation Reading initial/.idea/kotlinc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LittleLemon Navigation Reading initial/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LittleLemon Navigation Reading initial/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LittleLemon Navigation Reading initial/app/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LittleLemon Navigation Reading initial/app/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LittleLemon Navigation Reading initial/app/proguard-rules.pro" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LittleLemon Navigation Reading initial/app/src/androidTest/java/com/example/littlelemon/ExampleInstrumentedTest.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LittleLemon Navigation Reading initial/app/src/main/AndroidManifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LittleLemon Navigation Reading initial/app/src/main/java/com/example/littlelemon/HomeScreen.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LittleLemon Navigation Reading initial/app/src/main/java/com/example/littlelemon/MainActivity.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LittleLemon Navigation Reading initial/app/src/main/java/com/example/littlelemon/MenuListScreen.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LittleLemon Navigation Reading initial/app/src/main/java/com/example/littlelemon/destinations.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LittleLemon Navigation Reading initial/app/src/main/java/com/example/littlelemon/ui/theme/Color.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LittleLemon Navigation Reading initial/app/src/main/java/com/example/littlelemon/ui/theme/Shape.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LittleLemon Navigation Reading initial/app/src/main/java/com/example/littlelemon/ui/theme/Theme.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LittleLemon Navigation Reading initial/app/src/main/java/com/example/littlelemon/ui/theme/Type.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LittleLemon Navigation Reading initial/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LittleLemon Navigation Reading initial/app/src/main/res/drawable/bruschetta.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LittleLemon Navigation Reading initial/app/src/main/res/drawable/greeksalad.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LittleLemon Navigation Reading initial/app/src/main/res/drawable/ic_basket.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LittleLemon Navigation Reading initial/app/src/main/res/drawable/ic_hamburger_menu.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LittleLemon Navigation Reading initial/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LittleLemon Navigation Reading initial/app/src/main/res/drawable/lemondessert.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LittleLemon Navigation Reading initial/app/src/main/res/drawable/littlelemonimgtxt_nobg.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LittleLemon Navigation Reading initial/app/src/main/res/drawable/upperpanelimage.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LittleLemon Navigation Reading initial/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LittleLemon Navigation Reading initial/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LittleLemon Navigation Reading initial/app/src/main/res/mipmap-hdpi/ic_launcher.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LittleLemon Navigation Reading initial/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LittleLemon Navigation Reading initial/app/src/main/res/mipmap-mdpi/ic_launcher.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LittleLemon Navigation Reading initial/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LittleLemon Navigation Reading initial/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LittleLemon Navigation Reading initial/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LittleLemon Navigation Reading initial/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LittleLemon Navigation Reading initial/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LittleLemon Navigation Reading initial/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LittleLemon Navigation Reading initial/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LittleLemon Navigation Reading initial/app/src/main/res/values/colors.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LittleLemon Navigation Reading initial/app/src/main/res/values/strings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LittleLemon Navigation Reading initial/app/src/main/res/values/themes.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LittleLemon Navigation Reading initial/app/src/main/res/xml/backup_rules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LittleLemon Navigation Reading initial/app/src/main/res/xml/data_extraction_rules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LittleLemon Navigation Reading initial/app/src/test/java/com/example/littlelemon/ExampleUnitTest.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LittleLemon Navigation Reading initial/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LittleLemon Navigation Reading initial/gradle.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LittleLemon Navigation Reading initial/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LittleLemon Navigation Reading initial/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LittleLemon Navigation Reading initial/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LittleLemon Navigation Reading initial/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LittleLemon Navigation Reading initial/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,17 +36,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.cidr.known.project.marker": "true",
-    "cidr.known.project.marker": "true",
-    "last_opened_file_path": "/home/unix/Android Applications/Android-Projects/Navigation-Solution",
-    "recommended.upgrade.do.not.ask.for.project": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/unix/Android Applications/Android-Projects/Navigation-Solution&quot;,
+    &quot;recommended.upgrade.do.not.ask.for.project&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App">
       <module name="LittleLemon.app.main" />
