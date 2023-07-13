@@ -1,4 +1,4 @@
-package com.example.littlelemon.ui.theme
+package com.littlelemoningredients.littlelemon.ui.theme
 
 import android.app.Activity
 import android.os.Build
