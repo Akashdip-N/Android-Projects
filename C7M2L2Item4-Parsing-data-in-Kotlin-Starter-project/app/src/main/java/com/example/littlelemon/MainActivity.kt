@@ -70,13 +70,12 @@ class MainActivity : ComponentActivity() {
         }
     }
 
-    private suspend fun fetchContent(): String {
-        return httpClient
-            .get("https://raw.githubusercontent.com/Meta-Mobile-Developer-PC/Working-With-Data-API/main/littleLemonMenu.json")
-            .bodyAsText()
-    }
+        private suspend fun fetchContent(): String {
+            return httpClient
+                .get("https://raw.githubusercontent.com/Meta-Mobile-Developer-PC/Working-With-Data-API/main/littleLemonMenu.json")
+                .bodyAsText()
+        }
 }
-
 
 @Composable
 fun MenuItems(

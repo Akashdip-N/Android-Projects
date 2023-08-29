@@ -22,8 +22,11 @@ import androidx.lifecycle.lifecycleScope
 import androidx.room.Room
 import com.example.littlelemon.ui.theme.LittleLemonTheme
 import io.ktor.client.HttpClient
+import io.ktor.client.call.body
 import io.ktor.client.engine.android.Android
 import io.ktor.client.plugins.contentnegotiation.ContentNegotiation
+import io.ktor.client.request.get
+import io.ktor.client.statement.bodyAsText
 import io.ktor.http.ContentType
 import io.ktor.serialization.kotlinx.json.json
 import kotlinx.coroutines.Dispatchers
@@ -67,20 +70,25 @@ class MainActivity : ComponentActivity() {
                     // Add OutlinedTextField
 
                     // add is not empty check here
+
+
                 }
             }
         }
 
         lifecycleScope.launch(Dispatchers.IO) {
             if (database.menuItemDao().isEmpty()) {
-                // add code here
+                val menu = fetchMenu()
+                val menuItemsNetwork = parseMenu(menu)
+                saveMenuToDatabase(menuItemsNetwork)
             }
         }
     }
 
     private suspend fun fetchMenu(): List<MenuItemNetwork> {
-        TODO("Retrieve data")
-        // data URL: https://raw.githubusercontent.com/Meta-Mobile-Developer-PC/Working-With-Data-API/main/littleLemonSimpleMenu.json
+        return httpClient
+            .get("https://raw.githubusercontent.com/Meta-Mobile-Developer-PC/Working-With-Data-API/main/littleLemonSimpleMenu.json")
+            .body()
     }
 
     private fun saveMenuToDatabase(menuItemsNetwork: List<MenuItemNetwork>) {
