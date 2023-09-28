@@ -13,10 +13,8 @@ data class MenuNetwork(
 data class MenuItemNetwork(
     @SerialName("id")
     val id: Int,
-
     @SerialName("title")
     val title: String,
-
     @SerialName("price")
     val price: Double,
 ) {
